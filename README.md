@@ -1,3 +1,3 @@
 # merge-conflict
 
-this is from local_ubuntu
+this is from remote_ubuntu
